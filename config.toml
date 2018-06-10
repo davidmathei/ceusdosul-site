@@ -19,7 +19,7 @@ DefaultContentLanguage = "en"
   [languages.nl.params]
    [languages.nl.params.navigation]
 
-DisableLanguages = ["nl", "de"]
+DisableLanguages = ["pt", "nl", "de"]
 [params]
  DateForm = "2006.2.1"
  date_format = "2006.2.1"
