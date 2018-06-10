@@ -1,0 +1,31 @@
+baseURL = "http://example.org/"
+title = "Céus do Sul"
+theme = "ananke"
+
+SectionPagesMenu = "main"
+
+DefaultContentLanguage = "en"
+
+
+[languages]
+ [languages.en]
+  languageName = "English"
+ [languages.pt]
+  languageName = "Português"
+ [languages.de]
+  languageName = "Deutsch"
+ [languages.nl]
+  languageName = "Nederlands"
+  [languages.nl.params]
+   [languages.nl.params.navigation]
+
+DisableLanguages = ["nl", "de"]
+[params]
+ DateForm = "2006.2.1"
+ date_format = "2006.2.1"
+ favicon = "x"
+ facebook = "https://facebook.com/ceusdosul"
+ twitter = "https://twitter.com/ceusdosul"
+ featured_image = "/images/dark-night-person-32237-1.jpg"
+ body_classes = "avenir bg-near-white"
+ [params.navigation]
