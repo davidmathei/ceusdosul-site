@@ -12,7 +12,7 @@ The truss assembly is well thought out and all parts one has to touch to collima
 Setup and collimation just took minutes the very first time.
 
 <!--more-->
-![Lukehurst Donbson](/images/18-3.9-1.jpg)
+![Lukehurst Dobson](../../images/18-3.9-1.jpg)
 ## First Light
 
 ... blaj 
