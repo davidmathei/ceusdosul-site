@@ -11,7 +11,7 @@ The constellations, groups of stars that are named after mythological entities, 
 We'll talk about how they can be used as a calendar subdividing the year. Also we show hoe the constellations point to each other and how you can find teh lesser known ones by "hopping" from the ones that are easily identified. ("Big Dipper" anyone?)
 <!--more-->
 Where is north? South? We are going to find that out.
-What and whre is the Zodiac and how does it difgfer from the one that is used in Astrology?
+What and whre is the Zodiac and how does it differ from the one that is used in Astrology?
 
 If you arrive early enough we will point out the Belt of Venus, if you bear with us until dusk, we will talk about heliacal rising and its importance in Egyptian and Babylonian Astronomy. (You will need a lot of stamina for that trough, and possibly a warm jacket)
 
