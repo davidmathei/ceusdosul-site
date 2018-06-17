@@ -10,5 +10,5 @@ There is much activity on the sun though: sun spots, protuberances, granules are
 
 <!--more-->
 
-Price: 1,- pp
-Location: Cities along the coast.
+Price: 1,- pp  
+Location: Cities along the coast.  
