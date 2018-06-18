@@ -1,7 +1,7 @@
 ---
 title: "Open Foto Session"
-date: 2018-06-10
-expirydate: 2018-06-18
+date: 2018-06-22T21:30:00
+expirydate: 2018-06-24
 publishDate: 2018-01-01
 draft: true
 ---
