@@ -1,21 +1,22 @@
 ---
-title: "Nightly walks"
+title: "Night walks"
 description: ""
 featured_image: "/images/wang-xi-502270-unsplash.jpg"
 weight: 20
 ---
 
-The full moon draws eyeballs from everyone, especially on the wide and wild landscapes of the interior Algarve and Alentejo.
-What few people realize is that it's actually difficult to see features on its surface during thia phase. Also observation of many objects in the night sky is
-more difficult due to the strong moomlight. What to do?
+The full moon is a spectacular sight for everyone, especially from the wide and wild landscapes of the interior Algarve and Alentejo.
+What few people realise is that it's actually difficult to see features on the moon's surface during this phase. Observing many objects in the night sky is
+difficult due to strong moonlight. What to do?
 
-Together with [ZenTrekk](https://www.facebook.com/zentrekk/) we are offering night walks, taking binoculars along the way and appreciate as much as we can of the landscape in the silence of a full moon night.
+Together with [ZenTrekk](https://www.facebook.com/zentrekk/) we offer night walks: 
+taking binoculars with us and appreciating as much as we can of the landscape in the silence of a full moon night.
 
 <!--more-->
 
 Price: 15,- pp
 Group Size: minimum 6
-Duration: several hours. Depends on the individual walk
+Duration: several hours, depending on the walk
 Location: T.B.D.
 
 TODO: Talk to Carlos, transportation, food before/after?

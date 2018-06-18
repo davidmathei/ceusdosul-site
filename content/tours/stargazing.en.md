@@ -5,10 +5,11 @@ weight: 100
 featured_image: "/images/F3C8F742-A488-422F-A90B-F05F5B94C98C.JPG"
 ---
 
-See planets, galaxies and other objects through our telescopes. We have enough of them, so you don;t need to "draw a number" and wait in line.
+See planets, galaxies and other objects through our telescopes. We have a large selection, so you don't need to "draw a number" and wait in line.
 
-You will have a short introduction into orientation on the night sky, the objects we are about to see. Detailed explanations wait for you while you are looking through our telescopes.
-The whole session will last about two hours, but is in principle open ended. That should delight expereinced observers who want to have their own go at objectes they can't see from their native sklies.
+You will have a short introduction covering the objects you'll be seeing and we provide detailed explanations while you are looking through our telescopes.
+The whole session lasts about two hours. 
+Experienced observers can have their own go at exploring objects they can't see from their native skies.
 <!--more-->
 
 TODO: describe + image
@@ -24,7 +25,7 @@ TODO: describe + image
 
 Note: depending on the group size and location constraints we might not set up all of the above instruments.
 
-Price: 20,- pp
-Group size: 6 min.
-Duration: 2h-3h
-Location: anywhere
+Price: 20,- pp  
+Group size: minimum 6   
+Duration: 2h-3h  
+Location: anywhere  

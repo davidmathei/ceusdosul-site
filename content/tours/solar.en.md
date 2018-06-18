@@ -4,11 +4,13 @@ description: "You came for the sun after all"
 featured_image: "/images/astronomy-embers-fire-87611.jpg"
 weight: 90
 ---
-You came for the sun, there it is. It is too bright to look at, and you know you never should look into the sun with a telescope or binoculars.
-
-There is much activity on the sun though: sun spots, protuberances, granules are all signs of the powerful activity on the surface of our central star that can be seen through our solar telescopes. See in our [agenda](/agenda) when we are in a city close to you and find us in the center.
+You came for the sun but did you know you can also look straight at it? 
+There is much activity to be seen: sun spots, protuberances and granules are all signs of the powerful activity on the surface of our central star.
+See them through our solar telescopes! Check in our [agenda](/agenda) when we have our solar telescopes set up in a city close to you.
 
 <!--more-->
 
-Price: 1,- pp  
+Note: It is dangerous to look directly at the sun and you should never do this with binoculars or telescopes unsless they are specifically designed for that purpose.
+
+Price: 2,- pp  
 Location: Cities along the coast.  
