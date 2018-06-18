@@ -7,7 +7,7 @@ weight: 35
 
 Introduce your kids to the stars and constellations, along with the stories that connect them.
 We explain north, south, rising and setting, and we have telescopes suitable for children to have a look at the moon and planets.
-
+<!--more-->
 Price: 20,- per family  
 Duration: 1h  
 Age: 4 - 104  
