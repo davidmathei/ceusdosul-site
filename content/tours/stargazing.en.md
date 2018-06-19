@@ -22,7 +22,7 @@ Some optics we have available:
 * 18'' f/3.9 David Lukehurst Dobson
 * Takahashi Mewlon 250
 * CFF 185 f/6.8 APO refractor
-* A video setup with a Celestron RASA on a MESU 200 mount with an ASI ZWO 294 camera
+* A video setup with a Celestron RASA on a Mesu 200 mount with an ASI ZWO 294 camera
 
 Note: depending on the group size and location constraints we might not set up all of the above instruments.
 
