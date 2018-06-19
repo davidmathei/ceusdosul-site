@@ -27,5 +27,3 @@ You can contact us at:
 (+351) 924.222.149
 
 {{< email >}}
-
-Our registration number with the RNAAT is 212 / 2018
