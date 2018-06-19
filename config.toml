@@ -1,25 +1,25 @@
 baseURL = "http://example.org/"
 title = "Céus do Sul"
 theme = "ananke"
-cononifyURLs = true
+canonifyURLs = true
 SectionPagesMenu = "main"
 
 DefaultContentLanguage = "en"
 
-
 [languages]
  [languages.en]
   languageName = "English"
- [languages.pt]
-  languageName = "Português"
- [languages.de]
-  languageName = "Deutsch"
- [languages.nl]
-  languageName = "Nederlands"
-  [languages.nl.params]
-   [languages.nl.params.navigation]
+# [languages.pt]
+#  languageName = "Português"
+# [languages.de]
+#  languageName = "Deutsch"
+# [languages.nl]
+#  languageName = "Nederlands"
+#  [languages.nl.params]
+#   [languages.nl.params.navigation]
 
-DisableLanguages = ["pt", "nl", "de"]
+# disableLanguages = ["pt", "nl", "de"]
+
 [params]
  DateForm = "2006.2.1"
  date_format = "2006.2.1"
