@@ -14,6 +14,7 @@ Experienced observers can have their own go at exploring objects they can't see 
 <!--more-->
 
 Some optics we have available:
+
 * APM ED Binoculars 7x50, 10x50, 11x70 and 16x80
 * APM ED 120mm binoculars
 * 4'' achromatic refractor
