@@ -1,6 +1,6 @@
 ---
 title: "Telescope Rental"
-description: "..."
+description: "coming 2019"
 featured_image: "/images/elaine-casap-86025-unsplash-1.jpg"
 weight: 1
 ---
