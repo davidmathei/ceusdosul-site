@@ -1,7 +1,7 @@
 ---
 title: "Telescope Rental"
 description: "coming 2019"
-featured_image: "/images/elaine-casap-86025-unsplash-1.jpg"
+featured_image: "/images/david_astronomia-27.jpg"
 weight: 1
 ---
 

@@ -9,10 +9,11 @@ draft: true
 
 A dobsonian of that size is just about manageable for a mobile observatory, but the fun is in the details: 
 The truss assembly is well thought out and all parts one has to touch to collimate the optics are easily accessible. 
-Setup and collimation just took minutes the very first time.
+Assembly and collimation just took minutes the very first time.
 
 <!--more-->
 ![Lukehurst Dobson](../../images/18-3.9-1.jpg)
-## First Light
 
-... blaj 
+At f/3.9 a coma corrector is indispensable, but even with the shallow focus region for that focal ratio the moonlite CR-2 focuser reaches pin-point stars easily. 
+- objects
+- eyepieces ES-20/100, nagler 17, ES-14, Pentax 20/10

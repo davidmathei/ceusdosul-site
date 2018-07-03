@@ -1,7 +1,7 @@
 ---
 title: "Agenda"
 description: ""
-featured_image: "/images/david_astronomia-27.jpg"
+featured_image: "/images/david_astronomia-18.jpg"
 weight: 10
 ---
 
