@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: "Why a mobile observatory?"
-featured_image: "/images/115CB5AA-D203-417E-8253-64DE61CF99A6.JPG"
+featured_image: "/images/david_astronomia-40.jpg"
 weight: 50
 ---
 
