@@ -3,6 +3,7 @@ title: "Orientation and Constellations"
 description: "Find your way among the stars."
 featured_image: "/images/elaine-casap-86025-unsplash-1.jpg"
 weight: 10
+draft: true
 ---
 Do you need a telescope to enjoy watching the sky? Of course not. Astronomy was done for thousands of years with bare eyes and simple instruments.
 We show you how to find your way among the stars, identify stars and constellations.

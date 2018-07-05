@@ -5,7 +5,7 @@ featured_image: "/images/david_astronomia-14.jpg"
 weight: 35
 ---
 
-### coming soon!
+### Autumn 2018!
 
 Introduce your kids to the stars and constellations, along with the stories that connect them.
 We explain north, south, rising and setting, and we have telescopes suitable for children to have a look at the moon and planets.
