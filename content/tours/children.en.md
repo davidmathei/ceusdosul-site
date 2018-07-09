@@ -12,10 +12,9 @@ We explain north, south, rising and setting, and we have telescopes suitable for
 
 <!--more-->
 
-The event is held in Portuguese and English
+The event is held in Portuguese and English. We are planning to offer this from September on, as the sky will be sufficiently dark earlier than in Summer, making the event mour suitable for the young ones.
 
 Price: &euro; 20 per family\
 Duration: 1h\
 Age: 4 - 104\
-Location: Anywhere where it is dark. That could be your backyard!\
-Note: During summer the sky is only sufficiently dark from 10PM on.
+Location: T.B.A. (Anywhere where it is dark. That could be your backyard!)\
