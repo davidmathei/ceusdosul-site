@@ -22,7 +22,7 @@ and share these scenes with others interested in stargazing, new and experienced
 Over the years I have accumulated a variety of optics, 
 binoculars for spectacular wide-field viewing of the Milky Way, 
 large mirror and lens telescopes that let you discover distant objects in our galaxy as well as surface details on the planets and the moon. 
-Recently I added a video astronomy set up so that details otherwise not visible to the human eye can be presented to larger groups.
+There is also a video astronomy set up, where details otherwise not visible to the human eye can be presented to larger groups.
 
 This is how you can meet _Céus do Sul_:
 
