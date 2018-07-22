@@ -19,6 +19,6 @@ It is also convenient for larger groups of viewers.
 We use a Celestron RASA on a Mesu 200 mount together with a ZWO 294 camera for spectacular color views of the Universe.
 
 
-Price: 20,- pp\
+Price: adults &euro; 15, children &euro; 8\
 Group size: min. 6\
 Duration: 2h\

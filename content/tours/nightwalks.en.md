@@ -15,7 +15,7 @@ difficult due to strong moonlight. Time to join us for a moonlight walk.
 Together with [ZenTrekk](https://www.facebook.com/zentrekk/) we offer night walks:
 taking binoculars with us and appreciating as much as we can of the landscape in the silence of a full moon night.
 
-Price: &euro; 15 pp\
+Price: adults &euro; 15, children &euro; 8\
 Group Size: minimum 6\
 Duration: several hours, depending on the walk
 

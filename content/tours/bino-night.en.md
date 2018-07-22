@@ -13,7 +13,6 @@ Bring your own or use a pair of ours.
 
 We also provide star charts, planispheres and red lights that will help you find objects difficult to spot without these tools.
 
-Price: &euro; 15 pp\
-Group Size: minimum 6\
+Price: adults &euro; 15, children &euro; 8\
 Duration: 2h
 Languages: PT, EN, DE, NL depending on the group composition

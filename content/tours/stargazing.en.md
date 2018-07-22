@@ -27,6 +27,6 @@ Some optics we have available:
 
 Note: depending on the group size and location constraints we might not set up all of the above instruments.
 
-Price: &euro; 20 pp\
+Price: adults &euro; 15, children &euro; 8\
 Group size: minimum 6\
 Duration: 2h-3h\

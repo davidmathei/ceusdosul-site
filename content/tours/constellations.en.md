@@ -14,7 +14,7 @@ The constellations, groups of stars that are named after mythological entities, 
 We'll talk about how they can be used as a calendar subdividing the year. Also we show hoe the constellations point to each other and how you can find the lesser known ones by "hopping" from the ones that are easily identified.
 
 
-Price: 10,- pp
+Price: adults &euro; 10, children &euro; 5\
 Group size: min. 6 ppl
 Duration: 1h - 2h
 Location: anywhere where it is dark. That could be your backyard!

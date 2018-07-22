@@ -15,7 +15,7 @@ Full Moon nights are not the best times of the months to see stars, but you shou
 We have telescopes and binoculars available to also show you around other objects of our night skies.
 
 Location: Barragem da Bravura\
-Price: &euro; 15 pp\
+Price: adults &euro; 10, children &euro; 5\
 Time: 20:30 - 23:00\
 
 ## How to get there:
