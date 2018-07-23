@@ -22,7 +22,7 @@ Time: 20:30 - 23:00\
 
 Leaving Lagos northwards in the direction of Bensafrim foillow the road for about 4km until the sign "Cotifo" or "Barragem da Bravura".
 Follow that road until the village of Cotifo and at the end go to the left and follow the signs "Barragem" up the hills. 
-After more 5 minutes you should see us standing on a gravel in a curve that leads down to the dam. 
+After more 5 minutes you should see us standing on a gravel road in a curve that leads down to the dam. 
 
 ![overview](../../images/blog/bravura1.png)
 
