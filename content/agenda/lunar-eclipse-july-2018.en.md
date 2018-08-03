@@ -4,7 +4,7 @@ date: 2018-07-27T20:30:00
 publishDate: 2018-07-20T10:52:14+01:00
 featured_image: "/images/blog/lunar-eclipse.jpg"
 headerclass: "bg-black-10"
-expiryDatye: 2018-07-28
+expiryDate: 2016-07-28
 ---
 
 Meet us at Barragem da Bravura, 10 minutes from Lagos, to have a look to the east where the full moon is rising.
