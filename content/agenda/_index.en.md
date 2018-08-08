@@ -9,3 +9,5 @@ You can find our observatory at various locations throughout the western Algarve
 If available, we will organise bus transport to our observatory from a central location.
 
 Call us anytime (+351) 924 222 149 or send an email to {{< email >}} to book one of our [tours](/tours) or request another date or location.
+
+(Due to the ongoing forest fires in the central Serra we will not hold dats for the moment at Herdade do Parra)
