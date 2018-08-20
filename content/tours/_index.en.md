@@ -15,10 +15,10 @@ We also offer reservations for private or company events as well as exclusive bo
 
 Unless indicated otherwise, the prices for the events are:
 
-Adults: &euro; 15\
-Children (age 8-12) &euro; 8\
-Families (up to 4 persons) &euro; 35\
-For groups or schoolclasses or private events contact us: {{< email >}} or (+351) 924 222 149.
+Adults: &euro; 20\
+Children (age 8-12) &euro; 10\
+Families (up to 4 persons) &euro; 40\
+For groups, school classes or private events contact us: {{< email >}} or (+351) 924 222 149.
 
 Place your reservation per email {{< email >}}, via phone (+351) 924 222 149 or buy a ticket at a local event vendor.
 
