@@ -15,8 +15,8 @@ We also offer reservations for private or company events as well as exclusive bo
 
 Unless indicated otherwise, the prices for the events are:
 
-Adults: &euro; 20\
-Children (age 8-12) &euro; 10\
+Adults: &euro; 20 (Residents: &euro; 10)\
+Children (age 8-12) &euro; (Residents: &euro; 5)\
 Families (up to 4 persons) &euro; 40\
 For groups, school classes or private events contact us: {{< email >}} or (+351) 924 222 149.
 
