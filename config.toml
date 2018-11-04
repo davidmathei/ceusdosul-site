@@ -6,6 +6,7 @@ SectionPagesMenu = "main"
 
 DefaultContentLanguage = "en"
 
+
 [languages]
  [languages.en]
   languageName = "English"
@@ -28,4 +29,6 @@ DefaultContentLanguage = "en"
  twitter = "https://twitter.com/ceusdosul"
  featured_image = "/images/david_astronomia-57.jpg"
  body_classes = "avenir bg-near-white"
- [params.navigation]
+ MetaKW = "Stargazing,Astronomy,Telescopes,Astrotourism,Astroturismo,Algarve,Mobile Observatory,Vacation,Holidays,Guided Astronomical Tours,Sky Observation,Dark Skies"
+ MetaDesc = "Spend your vacation in the Algarve stargazing with our mobile observatory. Get a guided tour along the skies seeing planets, clusters, nebulae and galaxies. Find upcoming dates in our agenda or book a night with us directly"
+[params.navigation]

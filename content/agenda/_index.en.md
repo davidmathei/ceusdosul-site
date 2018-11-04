@@ -10,4 +10,4 @@ If available, we will organise bus transport to our observatory from a central l
 
 Call us anytime (+351) 924 222 149 or send an email to {{< email >}} to book one of our [tours](/tours) or request another date or location.
 
-(Due to the ongoing forest fires in the central Serra we will not hold dats for the moment at Herdade do Parra)
+Note: during winter we do not plan any dates ahead but we are able to set up quickly as soon as the weather allows. Contact us anytime when you want to book us during this period or want to go stargazing with us spontaneously!

@@ -1,7 +1,8 @@
 ---
-title: "Tours"
-description: "what we offer"
+title: "Stargazing"
+description: "Astronomy Tours"
 featured_image: "/images/david_astronomia-31.jpg"
+MetaKW: "Stargazing,Astronomy,Solar observation,Binocular observation,Video Astronomy,EAA,Algarve"
 weight: 30
 ---
 

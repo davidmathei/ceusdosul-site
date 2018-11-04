@@ -3,6 +3,7 @@ title: "Astronomy for Children"
 description: "... and for adults"
 featured_image: "/images/david_astronomia-14.jpg"
 weight: 35
+draft: true
 ---
 
 ### Autumn 2018!
