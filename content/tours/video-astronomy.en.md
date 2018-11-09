@@ -2,6 +2,7 @@
 title: "Video Astronomy"
 description: "See the sky on a screen"
 featured_image: "/images/ring-nebula.jpg"
+MetaDesc: "Video Astronomy makes stargazing accessible for people that have difficulties looking through conventional telescopes. It also allows for almost real-time viewing of objects that are difficult to see visually and shows them in color "
 weight: 90
 ---
 ## coming soon!

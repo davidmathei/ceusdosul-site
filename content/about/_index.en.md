@@ -2,6 +2,7 @@
 title: "About"
 description: "Why a mobile observatory?"
 featured_image: "/images/david_astronomia-63.jpg"
+MetaDesc: "Our mobilre observatory makes stargazing possible all over the western Algarve region. From binoculars to a large dobsanian reflector we have all the tools necessary to enjoy the dark skies."
 weight: 50
 ---
 
@@ -9,19 +10,19 @@ The interior regions of Portugal's western Algarve and Alentejo with their wide 
 Don't wait to book your astronomy holiday with _Céus do Sul_!
 
 Hello and thank you for your interest in my website! My name is David Mathei and I have spent all my
-life stargazing, first with my own eyes, then through binoculars, and finally with telescopes of all varieties. 
-Appreciation for the sky with all its complexities, cannot be complete without knowing a little about the objects in it. 
+life stargazing, first with my own eyes, then through binoculars, and finally with telescopes of all varieties.
+Appreciation for the sky with all its complexities, cannot be complete without knowing a little about the objects in it.
 My goal is to bring you under the stars to have you see and understand what makes our Universe tick!
 
-Night stargazing is deeply satisfying in itself, but doing so in a group, having the ability to share 
-observations and answer questions, makes it even more special. 
+Night stargazing is deeply satisfying in itself, but doing so in a group, having the ability to share
+observations and answer questions, makes it even more special.
 
-In 2017, the idea was born to transport a collection of telescopes to locations where the sky can be clearly distinguishable, 
+In 2017, the idea was born to transport a collection of telescopes to locations where the sky can be clearly distinguishable,
 and share these scenes with others interested in stargazing, new and experienced alike.
 
-Over the years I have accumulated a variety of optics, 
-binoculars for spectacular wide-field viewing of the Milky Way, 
-large mirror and lens telescopes that let you discover distant objects in our galaxy as well as surface details on the planets and the moon. 
+Over the years I have accumulated a variety of optics,
+binoculars for spectacular wide-field viewing of the Milky Way,
+large mirror and lens telescopes that let you discover distant objects in our galaxy as well as surface details on the planets and the moon.
 There is also a video astronomy set up, where details otherwise not visible to the human eye can be presented to larger groups.
 
 This is how you can meet _Céus do Sul_:

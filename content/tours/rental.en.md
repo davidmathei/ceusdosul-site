@@ -2,6 +2,7 @@
 title: "Telescope Rental"
 description: "coming 2019"
 featured_image: "/images/david_astronomia-27.jpg"
+MetaDesc: "Interested in renting a telescope during your stay at the Algarve? Contact us and we'll help you out."
 weight: 1
 ---
 

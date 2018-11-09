@@ -2,6 +2,7 @@
 title: "Stargazing"
 description: "Astronomy Tours"
 featured_image: "/images/david_astronomia-31.jpg"
+MetaDesc: "Book stargazing with us and join us for a night in the Algarve. We will provide you with telescopes and you will learn about the planets, stars, galaxies and other celestial objects while you observe. Individually or with a group."
 MetaKW: "Stargazing,Astronomy,Solar observation,Binocular observation,Video Astronomy,EAA,Algarve"
 weight: 30
 ---

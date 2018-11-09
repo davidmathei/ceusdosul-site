@@ -1,6 +1,7 @@
 ---
 title: "Stargazing with Telescopes"
 description: "A night at the observatory"
+MetaDesc: "Learn to orient yourself among the stars and observe planets, galaxies, clusters and gas nebula with us. We'll provide thorough explanitions while you observe."
 weight: 100
 featured_image: "/images/david_astronomia-16.jpg"
 ---
@@ -25,7 +26,7 @@ Some optics we have available:
 * CFF 185 f/6.8 APO refractor
 * A video setup with a Celestron RASA equipped with an ASI294MC camera
 
-Note: depending on the group size and location constraints we might not set up all of the above instruments.
+Note: depending on the group size and location constraints we mostly set up a selection of the above instruments.
 
 Price: adults &euro; 15, children &euro; 8\
 Group size: minimum 6\
