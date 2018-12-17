@@ -4,6 +4,7 @@ description: "coming 2019"
 featured_image: "/images/david_astronomia-27.jpg"
 MetaDesc: "Interested in renting a telescope during your stay at the Algarve? Contact us and we'll help you out."
 weight: 1
+draft: true
 ---
 
 If your vacation brought you to the Algarve or western Alentejo you probably travelled without a telescope.

@@ -12,7 +12,3 @@ Bring your own or use a pair of ours.
 <!--more-->
 
 We also provide star charts, planispheres and red lights that will help you find objects difficult to spot without these tools.
-
-Price: adults &euro; 15, children &euro; 8\
-Duration: 2h
-Languages: PT, EN, DE, NL depending on the group composition

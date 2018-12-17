@@ -12,14 +12,14 @@ DefaultContentLanguage = "en"
   languageName = "English"
 # [languages.pt]
 #  languageName = "Português"
-# [languages.de]
-#  languageName = "Deutsch"
+ [languages.de]
+  languageName = "Deutsch"
 # [languages.nl]
 #  languageName = "Nederlands"
 #  [languages.nl.params]
 #   [languages.nl.params.navigation]
 
-# disableLanguages = ["pt", "nl", "de"]
+disableLanguages = ["pt", "nl" ]
 
 [params]
  DateForm = "2006.2.1"

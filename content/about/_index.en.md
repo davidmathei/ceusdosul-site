@@ -2,7 +2,7 @@
 title: "About"
 description: "Why a mobile observatory?"
 featured_image: "/images/david_astronomia-63.jpg"
-MetaDesc: "Our mobilre observatory makes stargazing possible all over the western Algarve region. From binoculars to a large dobsanian reflector we have all the tools necessary to enjoy the dark skies."
+MetaDesc: "Our mobile observatory makes stargazing possible all over the western Algarve region. From binoculars to a large dobsonian reflector we have all the tools necessary to enjoy the dark skies."
 weight: 50
 ---
 

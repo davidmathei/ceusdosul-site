@@ -2,7 +2,7 @@
 title: "Agenda"
 description: ""
 featured_image: "/images/david_astronomia-18.jpg"
-MetaDesc: "We plan ahead stargazing dates with our mobile observatory along several places in teh western Algarve and western Alentejo. See our Agenda for upcoming dates or book us directly."
+MetaDesc: "We plan ahead stargazing dates with our mobile observatory along several places in the western Algarve and western Alentejo. See our Agenda for upcoming dates or book us directly."
 weight: 10
 ---
 

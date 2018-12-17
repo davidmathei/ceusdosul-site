@@ -3,6 +3,7 @@ title: "Solar Astronomy"
 description: "You came for the sun after all"
 featured_image: "/images/astronomy-embers-fire-87611.jpg"
 MetaDesc: "Observe the sun, discover surface features of our central star and learn where it's light comes from. Find us in various cities along the Algarve"
+MetaKW: "Solar Astronomy, Promineces, Granules, Algarve, Solar Telescope, H-alpha"
 weight: 90
 ---
 You came for the sun but did you know you can also look straight at it?
