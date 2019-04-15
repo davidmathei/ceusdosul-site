@@ -17,8 +17,7 @@ Soweit nicht anders angegeben sind unsere Preise:
 
 Erwachsene: &euro; 20 \
 Kinder: (8-12 Jahre) &euro; 10\
-Familien: (bis zu 4 Personen) &euro; 40\
-Für Gruppen, Schulklassen oder private Veranstaltungen nehmen sie gerne Kontakt mit us auf: {{< email >}} oder (+351) 924 222 149.
+Für Familienrabatt, Gruppen, Schulklassen oder private Veranstaltungen nehmen sie gerne Kontakt mit us auf: {{< email >}} oder (+351) 924 222 149.
 
 Reservieren sie eine Beobachtungsnacht per email {{< email >}}, telefonisch (+351) 924 222 149.
 

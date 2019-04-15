@@ -15,7 +15,5 @@ Sehen Sie sie durch unsere Sonnenteleskope! Finden Sie in unseren [Kalender](/de
 
 Hinweis: Es ist gefährlich, direkt in die Sonne zu schauen. Dies sollte niemals mit Ferngläsern oder Teleskopen geschehen, es sei denn, sie sind speziell für diesen Zweck konzipiert.
 
-You came for the sun but did you know you can also look straight at it?
-
 Preis: &euro; 2 pp\
 An verschiedenen Plaetzen in der Algarve.

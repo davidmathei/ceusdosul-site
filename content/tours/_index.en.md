@@ -19,8 +19,7 @@ Unless indicated otherwise, the prices for the events are:
 
 Adults: &euro; 20 (Residents: &euro; 10)\
 Children (age 8-12) &euro; (Residents: &euro; 5)\
-Families (up to 4 persons) &euro; 40\
-For groups, school classes or private events contact us: {{< email >}} or (+351) 924 222 149.
+For family discounts, groups, school classes or private events contact us: {{< email >}} or (+351) 924 222 149.
 
 Place your reservation per email {{< email >}}, via phone (+351) 924 222 149 or buy a ticket at a local event vendor.
 
