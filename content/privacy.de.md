@@ -10,7 +10,7 @@ Wilkommen auf unserer Cookiefreien Webseite!
 
 Wir sammeln oder speichern keine Information von unserem Besuchern ausser Ihrer IP Address, und Aufrufzeitpunkt einer Seite.
 Diese Information ist notwendig aus diagnostischen Gruenden um das sichere Betreiben der Webseite zu gewaehrleisten.
-Nach kurzer Zeit, typischerweise Wochen, werden diese Daten wieder geloescht.
+Nach kurzer Zeit, typischerweise Wochen, werden diese Daten wieder gelöscht.
 
 Wenn Sie Fragen haben nehmen Sie Kontakt mit uns auf per Email ({{< email >}}) oder schreiben Sie an:
 
