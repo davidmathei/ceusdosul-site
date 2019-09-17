@@ -10,8 +10,8 @@ DefaultContentLanguage = "en"
 [languages]
  [languages.en]
   languageName = "English"
-# [languages.pt]
-#  languageName = "Português"
+ [languages.pt]
+  languageName = "Português"
  [languages.de]
   languageName = "Deutsch"
 # [languages.nl]
@@ -19,7 +19,7 @@ DefaultContentLanguage = "en"
 #  [languages.nl.params]
 #   [languages.nl.params.navigation]
 
-disableLanguages = ["pt", "nl" ]
+disableLanguages = [ "nl" ]
 
 [sitemap]
   changefreq = "monthly"
