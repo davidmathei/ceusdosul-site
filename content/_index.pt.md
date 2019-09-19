@@ -1,17 +1,18 @@
 ---
 title: "Céus do Sul"
-description: "Stargazing in the Algarve"
+description: "Observação de Estrelas"
 ---
+Experiencie as noites algarvias limpas, e  em total escuridão com o observatório móvel Céus do Sul.
+Desfrute dos planetas, estrelas e galáxias através de uma enorme variedade de telescópios numa astro-tour.
+Deixe-se guiar através dos mistérios celestiai. Só lhe pedimos que olhe para o céu!
+Seja um experiente Astrónomo ou um interessado na Astronomia, junte-se a nós onde a terra encontra o céu!
 
-Experience the clear, dark night skies of Portugal with _Céus do Sul_, the mobile observatory.
-Gaze at planets, stars and galaxies through a variety of telescopes on a night-sky tour.
-Let yourself be guided across celestial wonders. All you have to do is look up.
-Whether you’re interested in an introduction to astronomy or you are an experienced observer, join us where the earth meets the sky.
+_Céus do Sul_ é um laboratório móvel de Astronomia a funcionar no Algarve e no Baixo Alentejo.
+ Venha experienciar noites em completa escuridão, num lugar fascinante, e descobrir os mistérios que se escondem na imensidão do céu.
 
-_Céus do Sul_ is a mobile astronomical observatory that travels along the dark skies of Portugal's Algarve and Alentejo regions, well worth a night out.
-With a latitude of 37º the Algarve exposes constellations that are not visible from more northern horizons. Spend your holidays stargazing with us!
+Estamos equipados com diversos telescópios, com tecnologia de última geração, que permitem uma inesquecível visita guiada pelos planetas, estrelas e galáxias! A nossa Latitude de 37º permite desvendar constelações que não são visíveis mais a norte da Europa.
+Quer seja um iniciante ou um observador experiente, junte-se a nós e deixe-se encantar pelos Céus do Sul! Planeie as suas férias com uma experiência astronómica única!
 
-Plan your holiday stargazing with us! Follow us on [Twitter](https://twitter.com/ceusdosul) or [Facebook](https://www.facebook.com/ceusdosul/) for updates on our activities.
-See our [agenda for upcoming dates](/agenda), or our [tour descriptions](/tours) for prices and booking information.
+Para saber onde andam os Céus do Sul consulte a nossa [agenda](/pt/agenda)ou através [Facebook](https://www.facebook.com/ceusdosul/). 
 
-You can also reach us by phone (+351) 924 222 149 or email: {{< email >}}.
+Pode também contactar-nos através do número 924222149 ou mail: {{< email >}}
