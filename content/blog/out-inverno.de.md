@@ -4,7 +4,7 @@ description: ""
 MetaDesc: ""
 MetaKW: "Algarve, Festival, Kunst, Astronomie, Patrimonium, São Marcos da Serra, Vila do Bispo, Lagoa"
 weight: 1
-featured_image: "/images/blog/out-inverno-crop.jpg"
+featured_image: "/images/blog/out-inverno-crop-small.jpg"
 date: 2019-09-21T11:47:00
 ---
 ### Herbst | Winter | Frühling
