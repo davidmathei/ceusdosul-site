@@ -4,6 +4,7 @@ publishDate: 2018-06-11T22:52:14+01:00
 featured_image: "/images/18-3.9-3.jpg"
 metaKW: "Lukehurst, Dobson, 18 zoll, Deep Sky"
 metaDesc: "Der 18 zoll Lukehurst Dobson ist unser Hauptinstrument für Deep Sky Beobachtungen"
+draft: true
 ---
 [David Lukehurst](http://www.dobsonians.co.uk/) hat für unsere Sternwarte einen ausgezeichneten 18 Zoll Dobson gebaut.
 

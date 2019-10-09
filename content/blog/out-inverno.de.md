@@ -5,6 +5,7 @@ MetaDesc: ""
 MetaKW: "Algarve, Festival, Kunst, Astronomie, Patrimonium, São Marcos da Serra, Vila do Bispo, Lagoa"
 weight: 1
 featured_image: "/images/blog/out-inverno-crop-small.jpg"
+draft: true
 date: 2019-09-21T11:47:00
 ---
 ### Herbst | Winter | Frühling
@@ -37,7 +38,7 @@ Dieses Projekt möchte auch in seinen Astronomieveranstaltungen an das fünfhund
 ##### Anmeldung | Out-(In)Verno Armband - 10€
 
 
-Wandrungen  15€**         7,50€*\
+Wanderungen  15€**         7,50€*\
 Zircus               8€**        4€*\
 Koncerte       8€**           4€*\
 Astronomie     8€**         4€*\
