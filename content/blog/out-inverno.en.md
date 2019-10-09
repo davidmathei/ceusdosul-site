@@ -6,6 +6,7 @@ MetaKW: "Algarve, Festival, Arts, Astronomy, Patrimony, São Marcos da Serra, Vi
 weight: 1
 featured_image: "/images/blog/out-inverno-crop-small.jpg"
 date: 2019-09-21T11:47:00
+draft: true
 ---
 ### Autumn | Winter | Spring
 ### Art | Astronomy | Patrimony
