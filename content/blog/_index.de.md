@@ -32,28 +32,6 @@ unseres Lebens bestimmt als eine ständige Interpretation und Anpassung unseres 
 
 Dieses Projekt möchte auch in seinen Astronomieveranstaltungen an das fünfhundertjährige Bestehen der Weltumrundung erinnern.
 
-### Kartenvorverkauf (Reservierung für alle Aktivitäten erforderlich)
-
-
-##### Anmeldung | Out-(In)Verno Armband - 10€
-
-
-Wanderungen  15€**         7,50€*\
-Zircus               8€**        4€*\
-Koncerte       8€**           4€*\
-Astronomie     8€**         4€*\
-Workshops          5€**           grátis*\
-Tanz               5€**           grátis*\
-
-{{% raw %}}
-<small>
-\* (Rabatte:  <18 Jahre, Studenten und mit Out-(In)Verno Armband: 50% Rabatt bei Einschreibung und Zutritt zu allen Veranstaltungen)\
-** Preis ohne Veranstaltungsteilnahme und ohne Armband
-
-Alle anderen Aktivitäten sind zutrittsfrei, Besucher müssen sich jedoch Anmelden.
-</small>
-{{% /raw %}}
-
 
 ## Veranstaltungsorte
 
